@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/json-filter-app/static/css/main.e6c13ad2.css",
+    "main.js": "/json-filter-app/static/js/main.b4de3562.js",
+    "static/js/453.ee74b5ea.chunk.js": "/json-filter-app/static/js/453.ee74b5ea.chunk.js",
+    "index.html": "/json-filter-app/index.html",
+    "main.e6c13ad2.css.map": "/json-filter-app/static/css/main.e6c13ad2.css.map",
+    "main.b4de3562.js.map": "/json-filter-app/static/js/main.b4de3562.js.map",
+    "453.ee74b5ea.chunk.js.map": "/json-filter-app/static/js/453.ee74b5ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b4de3562.js"
+  ]
+}
